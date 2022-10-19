@@ -16,9 +16,9 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: rgb(15, 150, 241);
+  color: black;
   border-radius: 0;
-  border-bottom: 10px solid rgb(244, 173, 212);
+  border-bottom: 10px solid black;
 }
 
 .description{
@@ -57,7 +57,7 @@ textarea{
   color: white;
 }
 
-.button2 {
+.saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
@@ -65,7 +65,7 @@ textarea{
   color: white;
 }
 
-.button2 i:hover {
+.saveBtn i:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
